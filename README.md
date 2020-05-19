@@ -120,6 +120,8 @@ Link to our web-site - http://massmediaanalysis.pythonanywhere.com/
 
 Link to the video on youtube - https://www.youtube.com/watch?v=K2VIGR4pQag&feature=youtu.be
 
+You can see the documentation by this link - https://github.com/Khrystia-Sliusarchuk/mass-media-analysis/blob/master/docs/build/html/index.html
+
 
 ## Requirements:
 You can see them in requirements.txt
