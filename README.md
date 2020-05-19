@@ -116,6 +116,10 @@ So does our web-representation looks like:
 
 You can search for the articles pressing "Find the articles button", explore more about our small project by pressing "Explore more" or look for some visual representation by pressing "The results of provided research". Enjoy it!
 
+Link to our web-site - http://massmediaanalysis.pythonanywhere.com/
+
+Link to the video on youtube - https://www.youtube.com/watch?v=K2VIGR4pQag&feature=youtu.be
+
 
 ## Requirements:
 You can see them in requirements.txt
