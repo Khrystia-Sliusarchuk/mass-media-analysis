@@ -28,6 +28,7 @@ Root:
       Our main file that makes web-representation for our project
     
     --response_handler.py
+      module-handler
     
     --search.csv
     
@@ -68,6 +69,7 @@ Root:
   -ORM Database[Directory]
   
     --json_handler.py
+      module-handler
     
     --news.db
     
@@ -115,6 +117,8 @@ So does our web-representation looks like:
 You can search for the articles pressing "Find the articles button", explore more about our small project by pressing "Explore more" or look for some visual representation by pressing "The results of provided research". Enjoy it!
 
 
+## Requirements:
+You can see them in requirements.txt
 ## Credits:
 
 * Khrystyna Sliusarchuk
